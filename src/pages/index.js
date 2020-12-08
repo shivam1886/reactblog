@@ -6,6 +6,7 @@ export default function Index() {
         <Fragment>
             <Header />
             <div className="page-content">
+                <h1>Hello Shiv</h1>
             </div>
         </Fragment>
     )
